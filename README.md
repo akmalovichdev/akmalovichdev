@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FABD2F&center=true&vCenter=true&width=640&lines=Backend+%26+DevOps+Engineer;AI+assistants+from+idea+to+production;CI%2FCD%2C+Docker%2C+cloud+%E2%80%94+automated+end-to-end;Secure+by+default)](https://git.io/typing-svg)
 
 <a href="mailto:info@akmalovich.dev"><img src="https://img.shields.io/badge/Hire_me-info@akmalovich.dev-FABD2F?style=for-the-badge&logo=gmail&logoColor=black&labelColor=282828" alt="Hire me" /></a>
+<a href="https://t.me/akmalovichdev"><img src="https://img.shields.io/badge/Telegram-@akmalovichdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=282828" alt="Telegram" /></a>
 <a href="https://linkedin.com/in/akmalovichdev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828" alt="LinkedIn" /></a>
 
 </div>
@@ -27,6 +28,48 @@
 
 ---
 
+## 🏆 Featured Projects
+
+### 🧠 Nuri AI — personal AI agent that runs your life and your servers
+An always-on AI assistant built on **Claude Agent SDK** and **Codex** with shared long-term memory.
+- 📞 **Real Telegram voice calls** — call it like a person, it answers in real time via OpenAI Realtime and can call *you* back
+- 🧩 **12 custom MCP servers** — memory, scheduler, file vault, mail, contacts, smart home (Yandex Alice), RGB, DNS and more
+- 🌐 **Production HTTP API** with SSE streaming, file & voice endpoints, OpenAPI 3.1 / Swagger
+- 🔐 Role-based access: infrastructure tools only for the owner, audit log + snapshots on every memory change
+
+`Python 3.12` `Claude Agent SDK` `OpenAI Realtime` `MCP` `Telethon` `Docker` `systemd`
+
+### 🚕 OK TAXI — taxi & delivery super-app platform
+A full product ecosystem in one monorepo, shipped with Docker Compose.
+- ⚙️ **NestJS API** with Swagger docs, migrations and seed pipelines
+- 📱 **3 mobile apps** on Expo — customer, courier and restaurant
+- 🖥️ React + Vite admin panel and marketing website
+
+`NestJS` `TypeScript` `React` `Expo` `MySQL` `Docker`
+
+### 🛒 Bozorli — delivery marketplace
+End-to-end platform connecting customers, stores and couriers.
+- 📍 **Real-time courier tracking** and order status over WebSockets
+- 👥 JWT auth with roles: customer, courier, store owner, admin
+- 📱 Customer & merchant mobile apps, React admin with analytics
+
+`Node.js` `Express` `Socket.IO` `Sequelize` `MySQL` `React Native` `TypeScript`
+
+### 🚪 APB System — anti-passback access control for Hikvision
+Security system that makes it impossible to enter a building twice without leaving.
+- 🎯 Manages **18 face/card terminals** and door control through Hikvision HCNetSDK
+- 🛡️ Full audit trail, violation reports and REST API
+- 💪 Graceful degradation — keeps working even when terminals go offline
+
+`Python` `Flask` `MySQL` `Hikvision SDK` `Docker`
+
+### 🤖 [Jarvis Bot](https://github.com/akmalovichdev/Jarvis-bot) — control your Linux PC from Telegram
+Volume & music control, screenshots, system monitoring, reboot/shutdown — all through an interactive Telegram UI.
+
+`Python` `aiogram` `psutil` `Linux`
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -35,7 +78,7 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,swift&theme=dark" alt="Languages" />
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,bun,express,django,fastapi,flask,dotnet,graphql&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,nestjs,django,fastapi,flask,dotnet,graphql&theme=dark" alt="Backend" />
 
 **Frontend & Mobile**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,webpack,flutter,wordpress&theme=dark" alt="Frontend and mobile" />
@@ -50,17 +93,6 @@
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,postman,figma,notion&theme=dark" alt="AI, ML and tools" />
 
 </div>
-
-<!--
-## 🏆 Featured Projects
-
-Add 2–4 of your best projects here — this is what convinces clients most.
-Format: name → one-line problem → result (numbers if possible) → link.
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Project name](https://github.com/akmalovichdev/REPO) | Problem it solves + result | Python · FastAPI · Docker |
--->
 
 ---
 
@@ -95,6 +127,7 @@ Format: name → one-line problem → result (numbers if possible) → link.
 **Open to freelance projects, full-time roles and open-source collaboration in AI, IoT and cloud infrastructure.**
 
 <a href="mailto:info@akmalovich.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/akmalovichdev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://linkedin.com/in/akmalovichdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/akmalovichdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://stackoverflow.com/users/akmalovichdev"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
