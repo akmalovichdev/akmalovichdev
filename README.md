@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Akmalovich 👋
+# Hi, I'm Nurbekjon Akhmatov 👋
 
 **Backend & DevOps Engineer · AI Enthusiast · Sysadmin**
 
