@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FABD2F&center=true&vCenter=true&width=640&lines=Backend+%26+DevOps+Engineer;AI+assistants+from+idea+to+production;CI%2FCD%2C+Docker%2C+cloud+%E2%80%94+automated+end-to-end;Secure+by+default)](https://git.io/typing-svg)
 
 <a href="mailto:info@akmalovich.dev"><img src="https://img.shields.io/badge/Hire_me-info@akmalovich.dev-FABD2F?style=for-the-badge&logo=gmail&logoColor=black&labelColor=282828" alt="Hire me" /></a>
+<a href="https://akmalovich.dev"><img src="https://img.shields.io/badge/Website-akmalovich.dev-8EC07C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=282828" alt="Website" /></a>
 <a href="https://t.me/akmalovichdev"><img src="https://img.shields.io/badge/Telegram-@akmalovichdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=282828" alt="Telegram" /></a>
 <a href="https://linkedin.com/in/akmalovichdev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828" alt="LinkedIn" /></a>
 
@@ -30,7 +31,7 @@
 
 ## 🏆 Featured Projects
 
-### 🧠 Nuri AI — personal AI agent that runs your life and your servers
+### 🧠 [Nuri AI](https://nuri.solutions) — personal AI agent that runs your life and your servers
 An always-on AI assistant built on **Claude Agent SDK** and **Codex** with shared long-term memory.
 - 📞 **Real Telegram voice calls** — call it like a person, it answers in real time via OpenAI Realtime and can call *you* back
 - 🧩 **12 custom MCP servers** — memory, scheduler, file vault, mail, contacts, smart home (Yandex Alice), RGB, DNS and more
@@ -39,7 +40,7 @@ An always-on AI assistant built on **Claude Agent SDK** and **Codex** with share
 
 `Python 3.12` `Claude Agent SDK` `OpenAI Realtime` `MCP` `Telethon` `Docker` `systemd`
 
-### 🚕 OK TAXI — taxi & delivery super-app platform
+### 🚕 [OK TAXI](https://oktaxi24.com) — taxi & delivery super-app platform
 A full product ecosystem in one monorepo, shipped with Docker Compose.
 - ⚙️ **NestJS API** with Swagger docs, migrations and seed pipelines
 - 📱 **3 mobile apps** on Expo — customer, courier and restaurant
@@ -47,13 +48,22 @@ A full product ecosystem in one monorepo, shipped with Docker Compose.
 
 `NestJS` `TypeScript` `React` `Expo` `MySQL` `Docker`
 
-### 🛒 Bozorli — delivery marketplace
+### 🛒 [Bozorli](https://bozorli.uz) — delivery marketplace
 End-to-end platform connecting customers, stores and couriers.
 - 📍 **Real-time courier tracking** and order status over WebSockets
 - 👥 JWT auth with roles: customer, courier, store owner, admin
 - 📱 Customer & merchant mobile apps, React admin with analytics
 
 `Node.js` `Express` `Socket.IO` `Sequelize` `MySQL` `React Native` `TypeScript`
+
+### 🧁 [Cup&Cake](https://cup-cake.uz) — online ordering system for a bakery
+Production-ready ordering platform: from browsing the menu to a custom cake on your doorstep.
+- 📱 **Mobile app** with OTP login, cart, orders and custom-cake requests with photo references
+- 🖥️ Admin dashboard with reports, catalog CRUD and order management
+- 🤖 Telegram bot for instant order notifications
+- 🚀 Dockerized production stack behind Nginx with TLS, automated backups and smoke tests
+
+`NestJS` `Prisma` `MySQL` `React Native` `Expo` `React` `Tailwind` `Telegraf` `Docker` `Nginx`
 
 ### 🚪 APB System — anti-passback access control for Hikvision
 Security system that makes it impossible to enter a building twice without leaving.
@@ -78,7 +88,7 @@ Volume & music control, screenshots, system monitoring, reboot/shutdown — all 
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,swift&theme=dark" alt="Languages" />
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,bun,express,nestjs,django,fastapi,flask,dotnet,graphql&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,nestjs,prisma,django,fastapi,flask,dotnet,graphql&theme=dark" alt="Backend" />
 
 **Frontend & Mobile**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,webpack,flutter,wordpress&theme=dark" alt="Frontend and mobile" />
@@ -127,6 +137,7 @@ Volume & music control, screenshots, system monitoring, reboot/shutdown — all 
 **Open to freelance projects, full-time roles and open-source collaboration in AI, IoT and cloud infrastructure.**
 
 <a href="mailto:info@akmalovich.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://akmalovich.dev"><img src="https://img.shields.io/badge/Website-8EC07C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://t.me/akmalovichdev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://linkedin.com/in/akmalovichdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/akmalovichdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
